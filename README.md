@@ -25,7 +25,7 @@ There is a Jupyter Notebook available here to showcase work related to the above
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](www.google.com).
+The main findings of the code can be found at the post available [here](https://tarahaddadin.medium.com/how-to-break-into-the-field-of-data-science-80eb8d8bd45e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
